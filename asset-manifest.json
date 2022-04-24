@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MursicTest/static/css/main.e8893c0e.css",
+    "main.js": "/MursicTest/static/js/main.cf2b27ef.js",
+    "static/js/787.9a01f44a.chunk.js": "/MursicTest/static/js/787.9a01f44a.chunk.js",
+    "index.html": "/MursicTest/index.html",
+    "main.e8893c0e.css.map": "/MursicTest/static/css/main.e8893c0e.css.map",
+    "main.cf2b27ef.js.map": "/MursicTest/static/js/main.cf2b27ef.js.map",
+    "787.9a01f44a.chunk.js.map": "/MursicTest/static/js/787.9a01f44a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8893c0e.css",
+    "static/js/main.cf2b27ef.js"
+  ]
+}
